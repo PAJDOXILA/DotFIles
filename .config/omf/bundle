@@ -1,0 +1,4 @@
+package archlinux
+theme agnoster
+theme bobthefish
+theme default
